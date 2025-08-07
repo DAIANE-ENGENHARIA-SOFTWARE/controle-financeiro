@@ -25,5 +25,5 @@ export default defineConfig({
     port: 4173,
     host: true
   },
-  base: './'
+ base: '/controle-financeiro/'
 })
